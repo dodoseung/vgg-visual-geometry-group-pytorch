@@ -14,7 +14,7 @@ data:
 model:
   input_img: [3, 32, 32]
   output_channel: 10
-  num_blocks: 16
+  num_blocks: 11
 
 # Training parameters
 train:
